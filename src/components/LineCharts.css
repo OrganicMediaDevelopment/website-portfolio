@@ -1,0 +1,23 @@
+/* © 2023 Organic Media Development. All Rights reserved. For more information: contact@organicmediadevelopment.com */
+
+.svg-lines {
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    padding-top: 7vmin;
+    padding-bottom: 2vmin;
+}
+
+polyline {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: dash 8s ease-in forwards;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: 0;
+    }
+}

@@ -1,0 +1,556 @@
+[
+    {
+        "id": "1",
+        "category": "Data Sources",
+        "skills": [
+            {
+                "name": "AWS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Cookies",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "JSON",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Local Storage",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "MongoDB",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "MySQL",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "REST",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Shared Object",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "SQL",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Web Sockets",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "XML",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category": "Frameworks",
+        "skills": [
+            {
+                "name": "AJAX",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Angular",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "AngularJS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Bootstrap",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Django",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Enigma.JS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Jasmine",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "JQuery",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "MXML",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Node.JS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "OSMF",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "React",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category": "Languages",
+        "skills": [
+            {
+                "name": "ActionScript",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "ASP",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "ASP.NET",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "CSS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "HTML",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "HTML5",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Java",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "JavaScript",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "PHP",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Python",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "TypeScript",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "UML",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Visual Basic",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "category": "Operating Systems",
+        "skills": [
+            {
+                "name": "Windows",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Mac OS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Linux",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "category": "Project Management",
+        "skills": [
+            {
+                "name": "Adobe",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Asana",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "BaseCamp",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Confluence",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Google",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Jira",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Microsoft Office",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Word",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Excel",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Powerpoint",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Outlook",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "category": "Software",
+        "skills": [
+            {
+                "name": "Eclipse",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Figma",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Flash",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Gimp",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Lotus Notes",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Notepad++",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Photoshop",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Sketch",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Sublime",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Visual Studio",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Web Storm",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Zeplin",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "category": "Team Communication",
+        "skills": [
+            {
+                "name": "Google Meet",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "GoTo Meeting",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "HipChat",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Skype",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Slack",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Teams",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "WebEx",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Zoom",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "category": "Tools",
+        "skills": [
+            {
+                "name": "Ant",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Auth0",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Bamboo",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Brightcove",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Chart.JS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "ConnectReport",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "CruiseControl",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "D3",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Gulp",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Jenkins",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Karma",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Material UI,",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "MaterializeCSS",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Maven",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "OAS Ad Server",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Oauth",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Qlik Sense",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "ReportManager",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Selenium",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Tableau",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "TeamCity",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "thePlatform",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Visio",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "WordPress",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "category": "Version Control",
+        "skills": [
+            {
+                "name": "Bitbucket",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "GIT",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "GitHub",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "SVN",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Team Foundation Server",
+                "used": "4",
+                "level": "advanced"
+            },
+            {
+                "name": "Visual Studio Online",
+                "used": "4",
+                "level": "advanced"
+            }
+        ]
+    }
+]

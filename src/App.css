@@ -1,0 +1,142 @@
+/* © 2023 Organic Media Development. All Rights reserved. For more information: contact@organicmediadevelopment.com */
+
+body {
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    margin: 0;
+    box-sizing: border-box;
+    color: #999;
+    background-color: #f3fce1 !important;
+}
+
+footer {
+    background-color: #f3fce1 !important;
+}
+
+@media (orientation: landscape) {
+    body {
+        grid-auto-flow: column;
+    }
+}
+
+.App-logo-O {
+    opacity: 1;
+    height: 7vmin;
+    pointer-events: none;
+}
+
+.App-logo-page {
+    pointer-events: none;
+    height: 18vmin;
+}
+
+.ease-out-ui {
+    opacity: 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .ease-in-ui {
+        animation-name: appear;
+        animation-duration: 8s;
+        animation-delay: 0s;
+        animation-timing-function: ease-in-out;
+        animation-fill-state: none;
+        animation-iteration-count: 1;
+    }
+    .ease-out-ui {
+        animation-name: disappear;
+        animation-duration: 2s;
+        animation-delay: 0s;
+        animation-timing-function: ease-in-out;
+        animation-fill-state: none;
+        animation-iteration-count: 1;
+    }
+    .App-logo-O {
+        animation: zoom 2s ease-in-out 1;
+    }
+}
+@keyframes zoom {
+    0% {
+        transform: scale(1) translate(-60%, -40%);
+        transition: opacity 8s;
+        opacity: 0;
+    }
+}
+
+@keyframes appear {
+    0% {
+        transition: opacity 1s;
+        opacity: 0;
+    }
+}
+
+@keyframes disappear {
+    0% {
+        transition: opacity 1s;
+        opacity: 1;
+    }
+}
+
+.header-name {
+    font-variant: small-caps;
+}
+
+.header-grey {
+    color: #666;
+    font-weight: 400 !important;
+}
+
+.header-bold {
+    font-weight: 600 !important;
+}
+
+.footer-link:hover {
+    color: #9acd32;
+    text-decoration-color: #9acd32;
+}
+
+.button-link:hover {
+    background: #9acd32;
+    background-color: rgba(154, 205, 50, 0.6) !important;
+}
+
+.hand-link {
+    cursor: pointer;
+}
+
+.resume-icon {
+    margin: 1vmin;
+    width: 100%;
+    font-size: 8vmin;
+}
+
+.PDF-icon {
+    color: red;
+}
+
+.Word-icon {
+    color: blue;
+}
+
+.Text-icon {
+    color: darkgrey;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.splash-nav a {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    font-size: 4vh;
+}
+
+.right-nav {
+    margin: 5vh;
+    font-size: 4vh;
+}

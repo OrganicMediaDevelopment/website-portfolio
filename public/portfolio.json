@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "image": "/images/BHI_showcase.png",
+        "company": "Blue Health Intelligence",
+        "title": "Senior UI Developer",
+        "date": "February 2018 to January 2023",
+        "job": "Created UI tools to improve the user experience of accessing data by uploading and downloading reports generated on specific parameters.",
+        "skills": "AngularJS, JQuery, HTML5, CSS, MaterialCSS, Node.JS, SQL, Qlik Sense, ReportManager, ConnectReport, Figma, Sketch, Visual Studio, TFS, Jira, Confluence, MS Office"
+    },
+    {
+        "id": "2",
+        "image": "/images/vant4geShowcase.png",
+        "company": "Vant4ge",
+        "title": "UI Engineer",
+        "date": "May 2015 to October 2017",
+        "job": "Designed assessments for criminal corrections and developed analytic reporting to reduce recidivism.",
+        "skills": "AngularJS, HTML5, CSS, JavaScript, BootStrap, JQuery, Materialize CSS, Chart.js, SQL, Visual Studio, JSON, SCRUM"
+    },
+    {
+        "id": "3",
+        "image": "/images/elsevierMakeover.png",
+        "company": "Elsevier ExitCare",
+        "title": "UI Developer",
+        "date": "December 2014 to March 2015",
+        "job": "Designed and developed multiple website themes to update the patient care education system.",
+        "skills": "JavaScript, JQueryUI, HTML5, CSS, XML, Flash, ASP, PHP, Visual Studio Online"
+    },
+    {
+        "id": "4",
+        "image": "/images/lightstormShowcase.png",
+        "company": "Lightstorm Entertainment",
+        "title": "Application Developer",
+        "date": "October 2013 to November 2014",
+        "job": "Developed custom tools for managing digital film resources to build the Avatar movie sequels.",
+        "skills": "FlashBuilder 4, Flex SDK 4.6, ActionScript 3, Flash Player 11, JavaScript, SVN"
+    },
+    {
+        "id": "5",
+        "image": "/images/matchShowcase.png",
+        "company": "iSite Design",
+        "title": "Game Developer",
+        "date": "July 2013 to October 2013",
+        "job": "Developed bubble shooter and matching games for the FIFA World Cup for Liberty Mutual's intranet.",
+        "skills": "ActionScript 3, Flex SDK 4.6, Flash Player 11, Tween Lite, External Interface, SVN"
+    },
+    {
+        "id": "6",
+        "image": "/images/pgiShowcase.png",
+        "company": "PGi",
+        "title": "UI Developer",
+        "date": "April 2012 to June 2013",
+        "job": "Created event messaging and user feedback for the iMeet Live software to support interactive events.",
+        "skills": "FlashBuilder 4, Flash CS6, Flex SDK 4.6, ActionScript 3, Flash Player 11, ANT, Maven, SVN"
+    },
+    {
+        "id": "7",
+        "image": "/images/pbsShowcase.png",
+        "company": "PBS",
+        "title": "Video Player Developer",
+        "date": "June 2009 to March 2012",
+        "job": "Developed and maintained custom features in multiple video players for national TV channel distribution.",
+        "skills": "Flash CS4, Flash Player 10, FlexBuilder 3, thePlatform PDK, SWF Object, XML, Django templates, SVN, OSMF, Flex SDK 4.6.2, MXML, Flash CS5, Flash Player 11, Flex SDK 4.5.1, FlashDevelop, ANT, GIT"
+    },
+    {
+        "id": "8",
+        "image": "/images/insigniaShowcase.png",
+        "company": "Insignia Technology Services",
+        "title": "eLearning Developer",
+        "date": "July 2011 to November 2011",
+        "job": "Developed dynamic e-learning foreign language courses for US Military HeadStart E-Learning software.",
+        "skills": "Flex 3.5 SDK, Flash Player 10, XML, CSS, MXML, Flash Builder 4, SVN"
+    },
+    {
+        "id": "9",
+        "image": "/images/ubmShowcase.png",
+        "company": "UBM Studios",
+        "title": "Web Developer",
+        "date": "March 2009 to August 2009",
+        "job": "Created a dynamic animated interactive conversation marketing website to collect data for sales leads.",
+        "skills": "Flash CS4, Flash Player 10, XML, Flash Local Connection, JavaScript, PHP, MySQL, CSS, HTML"
+    },
+    {
+        "id": "10",
+        "image": "/images/discoveryShowcase.png",
+        "company": "Discovery Communications",
+        "title": "UI Developer",
+        "date": "October 2007 to December 2008",
+        "job": "Constructed the Planet Green channel website that integrated features to deliver interactive dynamic visuals.",
+        "skills": "ActionScript 3, Flash Player 9 & 10, SWF Object, Faust: Flash Augmenting Standards, XML, Tween Lite, External Interface, Brightcove 3, OAS Ad Server, SVN"
+    },
+    {
+        "id": "11",
+        "image": "/images/amexShowcase.png",
+        "company": "American Express",
+        "title": "eLearning Developer",
+        "date": "June 2007 to October 2007",
+        "job": "Consulted and developed a multi language security and privacy training course delivered in 3 UI formats.",
+        "skills": "ActionScript 2, Flash Player 8, XML, Dynamic images, Shared Flash Object, Lotus Notes"
+    },
+    {
+        "id": "12",
+        "image": "/images/avaiShowcase.png",
+        "company": "AVAI",
+        "title": "UI Developer",
+        "date": "February 2006 to April 2007",
+        "job": "Built a UI for viewing and manipulating images to control a space telescope for a private home observatory.",
+        "skills": "ActionScript 2, Flash Player 8, XML, Web Services, Data Driven Design"
+    },
+    {
+        "id": "13",
+        "image": "/images/ivisShowcase.png",
+        "company": "IVIS Technologies",
+        "title": "Application Developer",
+        "date": "June 2004 to November 2005",
+        "job": "Created framework for building dynamic UI at runtime using data binding for all the xProcess applications.",
+        "skills": "ActionScript 2, Flash Player 8, XML, Web Services, OpenAMF Remoting, Eclipse Java SWT"
+    },
+    {
+        "id": "14",
+        "image": "/images/aztileShowcase.png",
+        "company": "Arizona Tile",
+        "title": "Web Developer",
+        "date": "January 2004 to June 2004",
+        "job": "Developed product website in a gallery showcase design so the inventory can be searchable by customers.",
+        "skills": "Flash MX 2004 Pro, ASP, JavaScript, HTML, XML, SQL"
+    },
+    {
+        "id": "15",
+        "image": "/images/hwcShowcase.png",
+        "company": "Houston Well City",
+        "title": "Web Developer",
+        "date": "January 2002 to December 2003",
+        "job": "Designed and developed a website to provide community resources, accept donations, and involvement.",
+        "skills": "JavaScript, HTML"
+    }
+]

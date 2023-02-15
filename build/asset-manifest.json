@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec54769f.css",
+    "main.js": "/static/js/main.17ec184c.js",
+    "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
+    "static/media/omd_logo.png": "/static/media/omd_logo.aa4a883d89948a9bf0d1.png",
+    "index.html": "/index.html",
+    "main.ec54769f.css.map": "/static/css/main.ec54769f.css.map",
+    "main.17ec184c.js.map": "/static/js/main.17ec184c.js.map",
+    "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec54769f.css",
+    "static/js/main.17ec184c.js"
+  ]
+}
